@@ -1,0 +1,27 @@
+employees
+-
+emp_no string FK >- dept_emp.emp_no
+emp_title string
+birth_date string
+first_name string
+last_name string
+sex string
+hire_date string
+
+
+dept_emp
+-
+emp_no string
+dept_no string FK >- departments.dept_no
+
+
+departments
+-
+dept_no string
+dept_name string
+
+
+dept_manager
+-
+dept_no string FK >- departments.dept_no
+emp_no string
