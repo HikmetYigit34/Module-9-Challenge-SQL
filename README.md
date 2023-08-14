@@ -1,5 +1,4 @@
-<h1>Module-9-Challenge-SQL</h1>
-<h2>EmployeeSQL</h2>
+<h1>EmployeeSQL</h1>
 <p>Please review files in given order</p>
 
 <ul>
