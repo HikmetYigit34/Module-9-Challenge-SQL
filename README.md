@@ -1,9 +1,10 @@
 <h1>Module-9-Challenge-SQL</h1>
+
 <ol>
   <li>
-    Tables and relations are created in QuickDBD, copy/paste 01_CreateTable.txt on to QuickDBD.
+    01. ERD_QuickDBD.txt can be copy/paste on to QuickDBD for visual.
   </li>
   <li>
-    Tables are imported to Postgres.
+    02. ERD Image.png
   </li>  
 </ol>
