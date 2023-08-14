@@ -15,12 +15,12 @@
   </tr>
   <tr>
     <td>03</td>
-    <td>03. createTables.sql</td>
+    <td>03. tablesQueries.sql</td>
     <td>Queries for creating tables</td>   
   </tr>
   <tr>
     <td>04</td>
-    <td>04. createQueries.sql</td>
+    <td>04. answersQueries.sql</td>
     <td>Queries for answering questions</td>   
   </tr>
   <tr>
