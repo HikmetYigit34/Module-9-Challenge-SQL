@@ -19,12 +19,15 @@
 
 <table>
   <tr>
-    <td>
-      01. ERD_QuickDBD.txt
-    </td>
-     <td>
-      can be copy/paste on to QuickDBD for visual.
-    </td>   
+    <td>01. ERD_QuickDBD.txt</td>
+    <td>Can be copy/paste on to QuickDBD for visual.</td>   
+  </tr>  
+  <tr>
+    <td>02. ERD Image.png</td>
+    <td>Image file</td>   
   </tr>
-
+  <tr>
+    <td>03. createTables.sql</td>
+    <td>Queries for creating tables</td>   
+  </tr>
 </table>
