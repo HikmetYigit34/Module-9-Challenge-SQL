@@ -16,7 +16,7 @@ CREATE TABLE "titles" (
         "title_id"
      )
 );
---Step02 import related csv file
+--Step02 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step03 view table
 SELECT * FROM titles;
 
@@ -28,7 +28,7 @@ CREATE TABLE "departments" (
         "dept_no"
      )
 );
---Step05 import related csv file
+--Step05 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step06 view table
 SELECT * FROM departments;
 
@@ -47,7 +47,7 @@ CREATE TABLE "employees" (
      )
 );
 
---Step08 import related csv file
+--Step08 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step09 view table
 SELECT * FROM employees;
 
@@ -57,7 +57,7 @@ CREATE TABLE "dept_manager" (
     "dept_no" VARCHAR(10)   NOT NULL,
     "emp_no" INTEGER   NOT NULL
 );
---Step11 import related csv file
+--Step11 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step12 view table
 SELECT * FROM dept_manager;
 
@@ -67,7 +67,7 @@ CREATE TABLE "salaries" (
     "emp_no" INTEGER   NOT NULL,
     "salary" INTEGER   NOT NULL
 );
---Step14 import related csv file
+--Step14 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step15 view table
 SELECT * FROM salaries;
 
@@ -77,7 +77,7 @@ CREATE TABLE "dept_emp" (
     "emp_no" INTEGER   NOT NULL,
     "dept_no" VARCHAR(10)   NOT NULL
 );
---Step15 import related csv file
+--Step15 import related csv file using pgAdmin "tables > Import/Export and so on..."
 --Step16 view table
 SELECT * FROM dept_emp;
 
