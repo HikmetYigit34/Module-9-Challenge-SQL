@@ -1,5 +1,5 @@
 <h1>EmployeeSQL</h1>
-<p>Please review files in given order</p>
+<p>Please review files in given order, pgAdmin to be used to run sql queries</p>
 
 <ul>
 <table width="100%">
