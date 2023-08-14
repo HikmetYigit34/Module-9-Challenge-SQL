@@ -1,0 +1,36 @@
+# Copy/paste this text on to quickdatabasediagrams.com to see table relations visual.
+
+titles
+-
+title_id VARCHAR(10)
+title VARCHAR(30)   
+
+departments
+-
+dept_no VARCHAR(10) FK - dept_emp.dept_no
+dept_name VARCHAR(30) 
+
+employees
+-
+emp_no INT FK >- dept_emp.emp_no
+emp_title_id VARCHAR(10) FK - titles.title_id
+birth_date VARCHAR(10)
+first_name VARCHAR(20) 
+last_name VARCHAR(20)  
+sex VARCHAR(1) 
+hire_date VARCHAR(10) 
+
+dept_manager
+-
+dept_no VARCHAR(10) FK - departments.dept_no
+emp_no INT FK - employees.emp_no
+
+salaries
+-
+emp_no INT FK - employees.emp_no
+salary INT 
+
+dept_emp
+-
+emp_no INT
+dept_no VARCHAR(10)
