@@ -1,6 +1,6 @@
 <h1>Module-9-Challenge-SQL</h1>
 <h2>EmployeeSQL</h2>
-Please review files in given order
+<p>Please review files in given order</p>
 
 <ul>
 <table width="100%">
