@@ -15,3 +15,16 @@
   </li>  
   
 </ul>
+
+
+<table>
+  <tr>
+    <td>
+      01. ERD_QuickDBD.txt
+    </td>
+     <td>
+      can be copy/paste on to QuickDBD for visual.
+    </td>   
+  </tr>
+
+</table>
