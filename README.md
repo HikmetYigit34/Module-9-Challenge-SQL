@@ -19,6 +19,12 @@
     <td>04. createQueries.sql</td>
     <td>Queries for answering questions</td>   
   </tr>
+  <tr>
+    <td>05. pgAdmin Image</td>
+    <td>Example query on pgAdmin</td>   
+  </tr>
+
+
 
 </ul> 
 </table>
