@@ -1,7 +1,7 @@
 <h1>EmployeeSQL</h1>
 <p>Please review files in given order, pgAdmin to be used to run sql queries</p>
 
-<ul>
+</ul>
 <table width="100%">
   <tr>
     <td>01</td>
